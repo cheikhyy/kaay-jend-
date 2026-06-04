@@ -39,5 +39,5 @@ Chaque année, de nombreux étudiants étrangers doivent vendre ou abandonner le
 ## Livrables - Semaine 1
 
 * [x] Fiche équipe soumise
-* [x] Énoncé HMW validé
+* [x] Énoncé HMW soumise
 * [ ] Carte d'empathie (prochaine étape)
