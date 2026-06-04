@@ -25,7 +25,11 @@ L'objectif est de permettre aux étudiants étrangers de vendre sereinement leur
 
 Chaque année, de nombreux étudiants étrangers doivent vendre ou abandonner leurs meubles lorsqu'ils terminent leurs études et retournent dans leur pays d'origine. Faute d'une plateforme spécialisée et de confiance, ces meubles sont souvent vendus à perte, difficilement visibles par les acheteurs potentiels ou simplement jetés.
 
-**Comment pourrions-nous permettre aux étudiants étrangers de revendre facilement leurs meubles en fin de cursus tout en offrant aux acheteurs des produits de qualité à prix abordable et en réduisant le gaspillage ?**
+### Ennoncé HMW
+
+**Comment pourrions nous transformer la fin de cursus d'un étudiant étranger en un moment de transmission organisée — où ses meubles trouvent naturellement preneur auprès des nouveaux arrivants ou de potentiels acheteurs?**
+
+
 
 ## Objectifs
 
