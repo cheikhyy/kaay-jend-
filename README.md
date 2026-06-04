@@ -40,9 +40,9 @@ Chaque année, de nombreux étudiants étrangers doivent vendre ou abandonner le
 * Favoriser l'économie circulaire.
 * Réduire le gaspillage de mobilier étudiant.
 
-## Livrables - Semaine 1
+## Livrables - S1
 
 * [x] Fiche équipe soumise
 * [x] Dépôt GitHub public créé
 * [x] Énoncé HMW soumise
-* [x] Carte d'empathie (prochaine étape)
+* [x] Carte d'empathie soumise
