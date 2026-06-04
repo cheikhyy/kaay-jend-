@@ -4,14 +4,14 @@ Plateforme de vente et d'achat de meubles d'occasion destinée principalement au
 
 L'objectif est de permettre aux étudiants étrangers de vendre sereinement leurs meubles à la fin de leur cursus afin de faciliter leur retour dans leur pays d'origine, tout en réduisant le gaspillage grâce à l'économie circulaire.
 
-## GET409 - Niayes Biz
+## GET409 - Kaay Jënd
 
 ### Notre équipe
 
 | Prénom et Nom         | Rôle                      | GitHub Username       | E-mail                                                                |
 | --------------------- | ------------------------- | --------------------- | --------------------------------------------------------------------- |
 | Joseph Henri Nodichao | Project Manager (PM)      | nodichao              | [josephhenrinodichao@gmail.com](mailto:josephhenrinodichao@gmail.com) |
-| Fatima Keita          | Développeuse UI (No-Code) | fatimakeita           | [fatimakeite05@gmail.com](mailto:fatimakeite05@gmail.com)             |
+| Fatima Keita          | Développeuse UI (No-Code) | ftk-keit              | [fatimakeite05@gmail.com](mailto:fatimakeite05@gmail.com)             |
 | Cheikh Mbengue        | Master Prompt Engineer    | cheikhyy              | [cheikh.mbengue2@unchk.edu.sn](mailto:cheikh.mbengue2@unchk.edu.sn)   |
 | Khadija Hodonou Sy    | Responsable Impact        | khadijahodonou97-lgtm | [khadija.hodonou97@gmail.com](mailto:khadija.hodonou97@gmail.com)     |
 
@@ -39,5 +39,6 @@ Chaque année, de nombreux étudiants étrangers doivent vendre ou abandonner le
 ## Livrables - Semaine 1
 
 * [x] Fiche équipe soumise
+* [x] Dépôt GitHub public créé
 * [x] Énoncé HMW soumise
-* [ ] Carte d'empathie (prochaine étape)
+* [x] Carte d'empathie (prochaine étape)
