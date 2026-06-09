@@ -46,3 +46,20 @@ Chaque année, de nombreux étudiants étrangers doivent vendre ou abandonner le
 * [x] Dépôt GitHub public créé
 * [x] Énoncé HMW soumise
 * [x] Carte d'empathie soumise
+
+### Notre défi — HMW Définitif S2
+
+**Comment pourrions-nous transformer la fin de cursus d'un étudiant étranger à Dakar en un moment de transmission organisée — en connectant proactivement vendeurs sur le départ et nouveaux arrivants au sein d'une même communauté de confiance, de façon à ce que chaque meuble trouve preneur avant le jour du départ, au juste prix, avec suffisamment de transparence pour que l'acheteur décide sans se déplacer inutilement ?**
+
+## Livrables - S2
+| Statut | Fichier                       | Contenu                                        |
+| ------ | ----------------------------- | ---------------------------------------------- |
+| ✅      | docs/chapeaux-bono.md         | Analyse des 6 Chapeaux de Bono                 |
+| ✅      | docs/contraintes-mvp.md       | Contraintes non négociables du MVP             |
+| ✅      | docs/hypotheses-validation.md | Hypothèses à tester lors des prochaines phases |
+| ✅      | docs/vpc.md                   | Value Proposition Canvas                       |
+| ✅      | docs/vpc-connections.md       | Traçabilité Chapeaux → VPC                     |
+| ✅      | docs/backlog-s3.md            | User Stories et Backlog S3                     |
+| ✅      | docs/hmw-definitif.md         | HMW définitif validé                           |
+
+
